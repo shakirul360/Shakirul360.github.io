@@ -13,15 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: "Shakirul Islam Leeon"
+subtitle: "Human-Centered AI • Explainable ML • Extended Reality"
+email: "shakirul360@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  "AI researcher, Erasmus Mundus scholar, creator, and traveler."
+twitter_username: shakirul360
+github_username: shakirul360
+minimal_mistakes_skin: "air"
 search: true
 
 # Build settings
@@ -59,22 +58,20 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Shakirul Islam Leeon"
+  avatar : "/assets/images/profile.jpg"  # add later
+  bio    : "AI researcher focused on explainable and accessible intelligence."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:shakirul360@gmail.com"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-github"
+      url: "https://github.com/shakirul360"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/leon360/"
+
 
 footer:
   links:
@@ -87,6 +84,21 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+
+navigation:
+  - title: "About"
+    url: /about/
+  - title: "Work"
+    url: /work/
+  - title: "Projects"
+    url: /projects/
+  - title: "Creative"
+    url: /creative/
+  - title: "Travel"
+    url: /travel/
+  - title: "CV"
+    url: /assets/Shakirul_Islam_Leeon_CV.pdf
+
 
 defaults:
   # _posts
