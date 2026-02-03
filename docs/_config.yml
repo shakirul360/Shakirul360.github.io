@@ -13,6 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+url: "https://shakirul360.github.io"
+baseurl: ""
+
+
 title: "Shakirul Islam Leeon"
 subtitle: "Human-Centered AI • Explainable ML • Extended Reality"
 email: "shakirul360@gmail.com"
@@ -20,7 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   "AI researcher, Erasmus Mundus scholar, creator, and traveler."
 twitter_username: shakirul360
 github_username: shakirul360
-minimal_mistakes_skin: "air"
+#minimal_mistakes_skin: "air"
+skin: air
 search: true
 
 # Build settings
