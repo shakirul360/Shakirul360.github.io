@@ -1,0 +1,11 @@
+leeon:
+  name: "Shakirul Islam Leeon"
+  bio: "Machine Learning • XR • Research"
+  location: "Europe"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/"
