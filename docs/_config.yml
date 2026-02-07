@@ -25,9 +25,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   "AI researcher, Erasmus Mundus scholar, creator, and traveler."
 twitter_username: shakirul360
 github_username: shakirul360
-# minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "dark"
 #skin: air
-skin: dark
+#skin: dark
 
 search: true
 
