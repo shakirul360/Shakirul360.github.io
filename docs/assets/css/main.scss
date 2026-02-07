@@ -5,8 +5,9 @@
 @import "minimal-mistakes";
 
 
-/* Make author avatar perfectly circular */
 .author__avatar img {
   border-radius: 50%;
   object-fit: cover;
+  width: 180px;
+  height: 180px;
 }
