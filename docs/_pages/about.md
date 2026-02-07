@@ -1,8 +1,20 @@
 ---
 permalink: /about/
 title: "About"
+layout: single
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+
+Hi, I’m **Shakirul Islam Leeon**.
+
+I’m interested in machine learning, extended reality (XR), and medical applications of AI. 
+My work focuses on combining data-driven methods with interactive and immersive technologies.
+
+This website serves as:
+- a personal knowledge base,
+- a portfolio of projects,
+- and a record of research and publications.
+
+I use this space to write notes, document experiments, and share work-in-progress ideas.
