@@ -5,8 +5,14 @@
 @import "minimal-mistakes";
 
 
+/* Force circular author avatar (override Minimal Mistakes mask) */
+.author__avatar {
+  clip-path: none !important;
+}
+
 .author__avatar img {
-  border-radius: 50%;
+  border-radius: 50% !important;
+  clip-path: none !important;
   object-fit: cover;
   width: 180px;
   height: 180px;
