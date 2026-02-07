@@ -67,7 +67,7 @@ plugins:
 
 author:
   name   : "Shakirul Islam Leeon"
-  avatar : "/assets/images/grad.jpg"  # add later
+  avatar : "/assets/images/dp.jpeg"  # add later
   bio    : "AI researcher focused on explainable and accessible intelligence."
   links:
     - label: "Email"
